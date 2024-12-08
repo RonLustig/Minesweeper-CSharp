@@ -1,0 +1,17 @@
+C:\CSharp\MinesSweeper\MinesSweeper\bin\Debug\net6.0-windows\MinesSweeper.exe
+C:\CSharp\MinesSweeper\MinesSweeper\bin\Debug\net6.0-windows\MinesSweeper.deps.json
+C:\CSharp\MinesSweeper\MinesSweeper\bin\Debug\net6.0-windows\MinesSweeper.runtimeconfig.json
+C:\CSharp\MinesSweeper\MinesSweeper\bin\Debug\net6.0-windows\MinesSweeper.dll
+C:\CSharp\MinesSweeper\MinesSweeper\bin\Debug\net6.0-windows\MinesSweeper.pdb
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.csproj.AssemblyReference.cache
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.Form1.resources
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.csproj.GenerateResource.cache
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.AssemblyInfoInputs.cache
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.AssemblyInfo.cs
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.csproj.CoreCompileInputs.cache
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.dll
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\refint\MinesSweeper.dll
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.pdb
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\MinesSweeper.genruntimeconfig.cache
+C:\CSharp\MinesSweeper\MinesSweeper\obj\Debug\net6.0-windows\ref\MinesSweeper.dll
